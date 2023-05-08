@@ -8,40 +8,40 @@
 
 | Project Veiw Screenshots|
 |---------------------------------------|
-|<div align="center"><img src="./src/components/assets/logo.png" alt="screenshot" width="auto" height="auto"/></div>|
+|<div><img src="./src/components/assets/logo.png" alt="screenshot" width="100px" height="100px"/></div>|
 
-# ￼ Table of Contents
+#Table of Contents
 
-- [￼ About the Project](#about-project)
-  - [￼ Built With](#built-with)
+- [About the Project](#about-project)
+  - [Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [￼ Live Demo](#live-demo)
-- [￼ Getting Started](#getting-started)
+  - [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [￼ Authors](#authors)
-- [￼ Future Features](#future-features)
-- [￼ Contributing](#contributing)
-- [￼ Show your support](#support)
-- [￼ Acknowledgements](#acknowledgements)
-- [￼ FAQ (OPTIONAL)](#faq)
-- [￼ License](#license)
+- [Authors](#authors)
+- [Future Features](#future-features)
+- [Contributing](#contributing)
+- [Show your support](#support)
+- [Acknowledgements](#acknowledgements)
+- [FAQ (OPTIONAL)](#faq)
+- [License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# ￼ [Space-Travelers-Hub] <a name="about-project"></a>
+# [Space-Travelers-Hub] <a name="about-project"></a>
 
 > **[Space-Travelers-Hub]** is a web application that allows users to book rockets, dragons and join selected space missions by fetching data from APIs
 
 Make simple calculations.
 Read a random math-related quote.
 
-## ￼ Built With <a name="built-with"></a>
+## Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 - <summary>Client</summary>
@@ -60,14 +60,14 @@ Read a random math-related quote.
 
 <!-- LIVE DEMO -->
 
-## ￼ Live Demo <a name="live-demo"></a>
+## Live Demo <a name="live-demo"></a>
 
 > [Live Demo Link](https://space-travelers-hub-five.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
-## ￼ Getting Started <a name="getting-started"></a>
+## Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps:
 
@@ -114,21 +114,21 @@ You can deploy this project using:
 - npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## ￼ Authors <a name="authors"></a>
+## Authors <a name="authors"></a>
 
-￼ **Frank Mugagga**
+**Frank Mugagga**
 
 - GitHub: [@githubhandle](https://www.github.com/FrankMugagga)
 - Twitter: [@twitterhandle](https://www.twitter.com/@mugagga_frank)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/frank-mugagga-17658225a)
 
-￼ **Mursedul Islam Sumon**
+**Mursedul Islam Sumon**
 
 - GitHub: [@githubhandle](https://www.github.com/sumon766)
 - Twitter: [@twitterhandle](https://www.twitter.com/sumon766)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumon766)
 
-￼ **Kamran Ahmad**
+**Kamran Ahmad**
 
 - GitHub: [@githubhandle](https://github.com/kamranahmad123)
 - Twitter: [@twitterhandle](https://twitter.com/handle)
@@ -136,21 +136,21 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ Future Features <a name="future-features"></a>
+## Future Features <a name="future-features"></a>
 
 - **[Send User data to the API]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ Contributing <a name="contributing"></a>
+## Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kamranahmad123/Space-Travelers-Hub/issues).
+Feel free to check the [issues page](https://github.com/sumon766/space-travelers-hub/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ Show your support <a name="support"></a>
+## Show your support <a name="support"></a>
  
   If you like this project, give it a star.
 
@@ -176,6 +176,6 @@ Feel free to check the [issues page](https://github.com/kamranahmad123/Space-Tra
 
 ## ￼ License <a name="license"></a>
 
-This project is [MIT](https://github.com/kamranahmad123/Space-Travelers-Hub/new/development) licensed.
+This project is [MIT](https://github.com/sumon766/space-travelers-hub/License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
