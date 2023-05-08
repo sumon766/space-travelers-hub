@@ -156,13 +156,13 @@ Feel free to check the [issues page](https://github.com/sumon766/space-travelers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ Acknowledgments <a name="acknowledgements"></a>
+## Acknowledgments <a name="acknowledgements"></a>
 
   We would like to thank Microverse 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ FAQ (OPTIONAL) <a name="faq"></a>
+## FAQ (OPTIONAL) <a name="faq"></a>
 
 - **How to make it mobile friendly?**
 
@@ -174,7 +174,7 @@ Feel free to check the [issues page](https://github.com/sumon766/space-travelers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ￼ License <a name="license"></a>
+## License <a name="license"></a>
 
 This project is [MIT](https://github.com/sumon766/space-travelers-hub/License) licensed.
 
