@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dragonCont {
+  display: flex;
+  padding: 10px;
+}
+
+.dragonimg {
+  width: 15rem;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.dragonDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.dragonBtn {
+  width: 180px;
+  height: 40px;
+  border-radius: 10px;
+  background: blue;
+  color: white;
+  border: none;
+  font-size: 18px;
+}
+
+.cancelBtn {
+  width: 180px;
+  height: 40px;
+  background: none;
+  border: 2px solid gray;
+  color: gray;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+.reserved {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+  width: 110px;
+  border-radius: 10px;
+  color: white;
+  background: green;
+}
+
+.container_dragons {
+  display: flex;
+  gap: 10px;
+}
+
+.reservecont {
+  height: auto;
+  border: 2px solid blue;
+}

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`performing test for missions testing if mission page really matches 1`] = `
+<div
+  className="missions-area"
+>
+  <table
+    className="missions-table"
+  >
+    <thead>
+      <tr>
+        <th>
+          Mission
+        </th>
+        <th>
+          Description
+        </th>
+        <th>
+          Status
+        </th>
+        <th>
+          Join/Leave Mission
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;

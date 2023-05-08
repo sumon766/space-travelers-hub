@@ -1,0 +1,58 @@
+.rockets-container {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5%;
+  margin-bottom: 10px;
+}
+
+.falcon {
+  width: 160px;
+  height: 130px;
+  border-radius: 3%;
+}
+
+.rocket-description {
+  margin-top: -2px;
+}
+
+.rocket-button {
+  height: 25px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 100px;
+}
+
+.rocket-cancel {
+  height: 25px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px grey solid;
+  color: grey;
+}
+
+.status-display {
+  height: 16px;
+  width: 50px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10%;
+  font-size: small;
+  margin-top: -1px;
+  padding-top: 1px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.container {
+  display: flex;
+  gap: 4px;
+  margin-top: 20px;
+}
+
+.name {
+  margin-bottom: -5px;
+}
